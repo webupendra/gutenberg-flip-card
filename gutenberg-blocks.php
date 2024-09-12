@@ -27,6 +27,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 function create_block_gutenberg_blocks_block_init() {
 	register_block_type( __DIR__ . '/build/heading' );
 	register_block_type( __DIR__ . '/build/flip-card' );
+	register_block_type( __DIR__ . '/build/call-to-action' );
 }
 add_action( 'init', 'create_block_gutenberg_blocks_block_init' );
 

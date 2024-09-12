@@ -3,7 +3,7 @@
   "apiVersion": 3,
   "name": "create-block/gutenberg-blocks",
   "version": "0.1.0",
-  "title": "Gutenberg Text Blocks",
+  "title": "Text Blocks",
   "category": "gutenberg-blocks",
   "icon": "editor-textcolor",
   "description": "Example block scaffolded with Create Block tool.",
