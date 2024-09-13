@@ -1,6 +1,6 @@
-=== Gutenberg Blocks ===
-Contributors:      The WordPress Contributors
-Tags:              block
+<h1> Gutenberg Flip Card </h1>
+Contributors:      webupendra
+Tags:              block, gutenberg widget, page builder, visual editor, wordpress page block, flipcard, flipbox.
 Tested up to:      6.1
 Stable tag:        0.1.0
 License:           GPL-2.0-or-later
@@ -10,12 +10,13 @@ Example block scaffolded with Create Block tool.
 
 == Description ==
 
-This is the long description. No limit, and you can use Markdown (as well as in the following sections).
+Flip Card Block is a user-friendly tool designed for creating interactive flip cards in WordPress. It allows you to showcase images, text, or other elements that engage users with dynamic visuals.
 
-For backwards compatibility, if this section is missing, the full length of the short description will be used, and
-Markdown parsed.
+Ideal for presenting services, team members, or other key information, Flip CardBlock enhances your website's appeal with its visually engaging design.
 
-== Installation ==
+With its intuitive interface and flexible customization options, Flip Block lets you easily adjust the width, height, and perspective of your flip cards, ensuring a perfect fit within your website's layout.
+
+== ### + FREE WIDGETS AND COUNTING ==
 
 This section describes how to install the plugin and get it working.
 
