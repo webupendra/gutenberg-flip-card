@@ -1,4 +1,4 @@
-<h1> Gutenberg Flip Card </h1>
+======= Gutenberg Flip Card =======
 Contributors:      webupendra
 Tags:              block, gutenberg widget, page builder, visual editor, wordpress page block, flipcard, flipbox.
 Tested up to:      6.1
