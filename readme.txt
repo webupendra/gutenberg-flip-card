@@ -40,3 +40,8 @@ With its intuitive interface and flexible customization options, Flip Block lets
 	* Width and Height
 	* Padding
 	* Typography & Styling
+
+### 3 BLOCKS WIDGETS
+	* call-to-action
+	* flip-card
+	* heading
